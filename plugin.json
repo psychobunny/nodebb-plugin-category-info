@@ -1,0 +1,19 @@
+{
+	"id": "nodebb-plugin-category-info",
+	"name": "NodeBB Category Info",
+	"description": "Adds latest post information to each category block on the home page. Utilizes masonry to stack category blocks neatly",
+	"url": "https://github.com/psychobunny/nodebb-plugin-static-page",
+	"library": "./library.js",
+	"hooks": [
+		{
+			"hook": "filter:server.create_routes", "method": "addRoute", "callbacked": true
+		},
+		{
+			"hook": "filter:scripts.get", "method": "addScripts", "callbacked": false
+		}
+	],
+	"staticDir": "./static",
+	"css": [
+		"css/style.css"
+	]
+}

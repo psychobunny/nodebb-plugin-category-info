@@ -1,0 +1,31 @@
+{
+  "name": "nodebb-plugin-category-info",
+  "version": "0.0.1",
+  "description": "NodeBB Plugin - Adds latest post information to each category block on the home page. Utilizes masonry to stack category blocks neatly",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psychobunny/nodebb-plugin-category-info"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "category",
+    "homepage",
+    "masonry"
+  ],
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-category-info/issues"
+  },
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-category-info@0.0.1",
+  "_from": "nodebb-plugin-category-info@~0.0.1"
+}
