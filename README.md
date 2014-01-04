@@ -4,9 +4,6 @@ This NodeBB plugin adds latest post information to each category block on the ho
 
 This plugin also serves as an example on how to serve modified/custom templates. You could replace an individual block within a template and serve that. This way your plugin can be future-proofed to changes made in and around that file in later NodeBB releases.
 
-## TODO
-
-* Need a configuration in control panel to modify the amount of topics to be shown per category. Either that or show a random amount?
 
 ## Screenshots
 
