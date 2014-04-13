@@ -10,6 +10,8 @@ This plugin also serves as an example on how to serve modified/custom templates.
 ![NodeBB Masonry](http://i.imgur.com/3z8JE8u.png)
 
 
+**Warning - This plugin is only compatible up to version 0.3.1 of NodeBB!**
+
 ## About NodeBB
 
 Don't forget to [like NodeBB on Facebook](http://www.facebook.com/nodebb)!
