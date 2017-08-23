@@ -1,3 +1,5 @@
+### This plugin has been deprecated as of version 0.3.2 of NodeBB
+
 # NodeBB Category Info
 
 This NodeBB plugin adds latest post information to each category block on the home page. Utilizes masonry to stack category blocks neatly.
